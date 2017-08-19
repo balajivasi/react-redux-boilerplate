@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "i18next": "^8.4.3",
+    "i18next-browser-languagedetector": "^2.0.0",
+    "i18next-localstorage-cache": "^1.1.1",
+    "i18next-xhr-backend": "^1.4.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-i18next": "^5.0.0",
+    "react-router": "^4.1.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.2"
   },
   "devDependencies": {
     "react-scripts": "1.0.11"
